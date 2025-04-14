@@ -1,1 +1,13 @@
+streamlit
 yfinance
+pandas
+numpy
+matplotlib
+plotly
+google.generativeai
+pymongo
+streamlit_extras
+lxml
+altair==4.1.0
+plotly.express
+streamlit==1.25.0
